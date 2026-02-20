@@ -1,23 +1,32 @@
 # Floating Compass – QGIS Plugin
 
-Floating Compass is a lightweight and modern compass overlay tool for QGIS.
+Professional compass overlay tool for RF planning and network optimization workflows.
 
-## ✨ Features
+## 🚀 Key Features
 
-- 🧭 Floating compass overlay
-- 🎯 Snap to Feature support
-- 🎨 Custom UI Skin (SVG-based)
-- 🔄 Smooth drag & rotation
-- ⚡ Lightweight & fast rendering
+- Floating compass overlay
+- Snap to Feature precision mode
+- Custom SVG-based UI skins
+- Smooth drag & rotation engine
+- Optimized rendering performance
 
-## 🛠 Installation
+## 🎯 Use Case
 
-1. Download the repository
-2. Copy `Floating_Compass` folder into:
-Windows: C:\Users<username>\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins\
-3. Restart QGIS
-4. Enable plugin from Plugin Manager
+Designed for:
+- RF Planning
+- Azimuth validation
+- Network optimization workflows
 
-## 👤 Author
+## 📸 Preview
 
-Achmad Amrulloh – Telecommunication Engineer → IoT Engineer
+![Screenshot](assets/screenshot_01.png)
+![Screenshot](assets/screenshot_02.png)
+
+## 🎥 Demo
+
+![Demo](assets/demo.gif)
+
+## 📌 Note
+
+Source code is private.  
+Available upon request for collaboration or professional discussion.
