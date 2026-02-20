@@ -1,0 +1,54 @@
+# ------------------------------
+# Python
+# ------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# ------------------------------
+# Qt / QGIS generated
+# ------------------------------
+*.qrc.py
+*.ui.py
+resources_rc.py
+
+# QGIS local plugin deployment (optional safety)
+*.zip
+
+# ------------------------------
+# Logs
+# ------------------------------
+*.log
+
+# ------------------------------
+# IDE / Editor
+# ------------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ------------------------------
+# OS Files
+# ------------------------------
+.DS_Store
+Thumbs.db
+
+# ------------------------------
+# Temporary
+# ------------------------------
+*.tmp
+*.bak
+*.swp
