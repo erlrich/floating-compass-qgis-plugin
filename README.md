@@ -30,3 +30,5 @@ Designed for:
 
 Source code is private.  
 Available upon request for collaboration or professional discussion.
+-------------------------------------------------------------------------------------------------
+Developed as part of advanced QGIS plugin engineering practice for telecom optimization workflows.
