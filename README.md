@@ -26,6 +26,19 @@ Designed for:
 
 ![Demo](assets/demo.gif)
 
+---
+
+## 🔐 License
+
+Floating Compass (Desktop & QGIS version) requires a valid license key.
+
+To request a license, please complete the official request form below:
+
+🔗 https://forms.gle/B8EGKuj8Fe9foQJD8
+
+A license key will be generated based on your Machine ID.
+
+---
 ## 📌 Note
 
 Source code is private.  
